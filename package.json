@@ -1,0 +1,13 @@
+{
+  "name": "riichi-vector-tiles",
+  "version": "0.0.1",
+  "description": "Vector images of Japanese Riichi/Reach Mahjong tiles",
+  "author": "max ulidtko <ulidtko@gmail.com>",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "private": true,
+  "license": "MIT"
+}
