@@ -18,40 +18,35 @@
        id="tileblack"
        osb:paint="solid">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
+         style="stop-color:#000000"
          id="stop5614" />
     </linearGradient>
     <linearGradient
        id="tileblue"
        osb:paint="solid">
       <stop
-         style="stop-color:#000040;stop-opacity:1;"
-         offset="0"
+         style="stop-color:#000040"
          id="stop5608" />
     </linearGradient>
     <linearGradient
        id="tilered"
        osb:paint="solid">
       <stop
-         style="stop-color:#800000;stop-opacity:1;"
-         offset="0"
+         style="stop-color:#800000"
          id="stop17363" />
     </linearGradient>
     <linearGradient
        id="tilebrred"
        osb:paint="solid">
       <stop
-         style="stop-color:#C00000;stop-opacity:1;"
-         offset="0"
+         style="stop-color:#C00000"
          id="stop17373" />
     </linearGradient>
     <linearGradient
        id="tilegreen"
        osb:paint="solid">
       <stop
-         style="stop-color:#004000;stop-opacity:1;"
-         offset="0"
+         style="stop-color:#004000"
          id="stop17331" />
     </linearGradient>
   </defs>
