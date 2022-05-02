@@ -1,59 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
    version="1.0"
    width="5120.000000pt"
    height="3840.000000pt"
    viewBox="0 0 5120.000000 3840.000000"
    preserveAspectRatio="xMidYMid meet"
-   id="svg6756">
+   id="svg6756"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs10506">
     <linearGradient
-       id="tileblack"
-       osb:paint="solid">
+       id="tileblack">
       <stop
          style="stop-color:#000000"
          id="stop5614" />
     </linearGradient>
     <linearGradient
-       id="tileblue"
-       osb:paint="solid">
+       id="tileblue">
       <stop
          style="stop-color:#000040"
          id="stop5608" />
     </linearGradient>
     <linearGradient
-       id="tilered"
-       osb:paint="solid">
+       id="tilered">
       <stop
          style="stop-color:#800000"
          id="stop17363" />
     </linearGradient>
     <linearGradient
-       id="tilebrred"
-       osb:paint="solid">
+       id="tilebrred">
       <stop
          style="stop-color:#C00000"
          id="stop17373" />
     </linearGradient>
     <linearGradient
-       id="tilegreen"
-       osb:paint="solid">
+       id="tilegreen">
       <stop
          style="stop-color:#004000"
          id="stop17331" />
     </linearGradient>
-    <linearGradient id="tileface" osb:paint="solid">
-      <stop style="stop-color:#fefbe6" />
+    <linearGradient
+       id="tileface">
+      <stop
+         style="stop-color:#fefbe6"
+         id="stop12" />
     </linearGradient>
-    <linearGradient id="tileframe" osb:paint="solid">
-      <stop style="stop-color:#000000" />
+    <linearGradient
+       id="tileframe">
+      <stop
+         style="stop-color:#000000"
+         id="stop15" />
     </linearGradient>
   </defs>
   <g
