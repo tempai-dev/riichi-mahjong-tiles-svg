@@ -23,7 +23,6 @@
          id="stop5614" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0,0,0,0,5.8820559,2.472044e11)"
        id="tileblue"
        osb:paint="solid">
       <stop
@@ -32,7 +31,6 @@
          id="stop5608" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0,0,0,0,-1.2278287e-6,37913.677)"
        id="tilered"
        osb:paint="solid">
       <stop
@@ -41,7 +39,6 @@
          id="stop17363" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0,0,0,0,1.8236323,69295422000)"
        id="tilebrred"
        osb:paint="solid">
       <stop
@@ -50,7 +47,6 @@
          id="stop17373" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(4369063100,0,0,4369063100,0.00110231,-2.0459966e13)"
        id="tilegreen"
        osb:paint="solid">
       <stop
