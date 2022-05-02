@@ -49,6 +49,12 @@
          style="stop-color:#004000"
          id="stop17331" />
     </linearGradient>
+    <linearGradient id="tileface" osb:paint="solid">
+      <stop style="stop-color:#fefbe6" />
+    </linearGradient>
+    <linearGradient id="tileframe" osb:paint="solid">
+      <stop style="stop-color:#000000" />
+    </linearGradient>
   </defs>
   <g
      id="1man"
