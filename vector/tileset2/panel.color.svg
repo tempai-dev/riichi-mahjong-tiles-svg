@@ -52,6 +52,12 @@
          style="stop-color:#000000"
          id="stop15" />
     </linearGradient>
+    <linearGradient
+       id="tileback">
+      <stop
+         style="stop-color:#e6a80f"
+         id="stop16" />
+    </linearGradient>
   </defs>
   <g
      id="1man"
@@ -889,7 +895,7 @@
      id="back"
      transform="translate(4560,2336)">
     <path
-       style="fill:#000000"
+       style="fill:url(#tileback)"
        id="path9642"
        d="M 25.24,4e-5 C 15.84,2.22004 6.96,9.64004 2.6,18.92 L 0,24.42 v 310.5 310.5 l 2.6,5.5 c 3.3,7.02 9.88,13.6 16.9,16.9 l 5.5,2.6 H 239.5 454 l 5.5,-2.6 c 7.02,-3.3 13.6,-9.88 16.9,-16.9 l 2.6,-5.5 V 334.92 24.42 l -2.6,-5.5 C 473.1,11.9 466.52,5.32004 459.5,2.02004 l -5.5,-2.6 -212.5,-0.16 c -121.82,-0.08 -214.1,0.24 -216.26,0.74 z" />
   </g>
