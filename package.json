@@ -8,6 +8,5 @@
   "devDependencies": {
     "grunt": "~0.4.5"
   },
-  "private": true,
-  "license": "MIT"
+  "license": "(MIT OR CC-PDDC)"
 }
